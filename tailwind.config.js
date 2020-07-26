@@ -3,7 +3,7 @@ module.exports = {
   purge: ['./src/**/*.js'],
   theme: {
     fontFamily: {
-      body: 'Futura',
+      // body: 'Futura',
     },
   },
   variants: {},

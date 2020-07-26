@@ -31,13 +31,13 @@ function TestPage() {
                   <div className="flex">
                     <div>
                       <h1
-                        className="mb-0 text-6xl leading-none text-black uppercase font-body"
+                        className="mb-0 text-6xl leading-none text-black uppercase"
                         href="#"
                         aria-label="Home"
                       >
                         Catalina <br />
                       </h1>
-                      <h2 className="pl-2 mt-0 text-3xl leading-none uppercase font-body">
+                      <h2 className="pl-2 mt-0 text-3xl leading-none uppercase">
                         Advisors
                       </h2>
                     </div>
@@ -67,7 +67,7 @@ function TestPage() {
                   </div>
                 </div>
               </div>
-              <div className="hidden font-body md:block md:ml-10 md:pr-4">
+              <div className="hidden md:block md:ml-10 md:pr-4">
                 <a
                   href="#"
                   className="text-2xl font-medium text-black transition duration-150 ease-in-out hover:text-gray-700"
@@ -100,7 +100,7 @@ function TestPage() {
             className="absolute flex items-center max-w-screen-xl px-4 mx-auto lg:px-8 "
           >
             <div className="sm:text-center lg:text-left">
-              <h2 className="text-4xl font-medium leading-10 tracking-tight text-black font-body sm:text-5xl sm:leading-none md:text-6xl">
+              <h2 className="text-4xl font-medium leading-10 tracking-tight text-black sm:text-5xl sm:leading-none md:text-6xl">
                 Experienced Corporate
                 <br />
                 <span className="text-gray-700">Financial Advisors</span>
